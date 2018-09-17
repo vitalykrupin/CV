@@ -5,7 +5,7 @@
 - telegram - @vitalykrupin;
 - mail - vitalykrupin@gmail.com;
 
-- Претендую на позицию Junior Frontend developer;
+Претендую на позицию Junior Frontend developer;
 
 ## Skills
 
