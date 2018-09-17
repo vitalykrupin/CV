@@ -1,11 +1,11 @@
 # Виталий Крупин
 
-28 лет;
-г. Екатеринбург;
-telegram - @vitalykrupin;
-mail - vitalykrupin@gmail.com;
+- 28 лет;
+- г. Екатеринбург;
+- telegram - @vitalykrupin;
+- mail - vitalykrupin@gmail.com;
 
-Претендую на позицию Junior Frontend developer;
+- Претендую на позицию Junior Frontend developer;
 
 ## Skills
 
@@ -23,7 +23,7 @@ mail - vitalykrupin@gmail.com;
 - MVC;
 - TLD/TDD;
 - REST API;
-- ReactJS / Native Интересен и активно изучаем в данный момент;
+- ReactJS Интересен и активно изучаем в данный момент;
 
 #### VCS
 
@@ -36,7 +36,7 @@ mail - vitalykrupin@gmail.com;
 - PostCSS;
 - Terminal;
 - MacOS/Linux;
-- Люблю чистый, понятный, структурированный код;
+- Пишу чистый, понятный, структурированный код;
 
 ## Образование
 
