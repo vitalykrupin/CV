@@ -22,7 +22,7 @@
 - Чистый JS
 - ES6
 - Модульность
-- MVC (есть понимание, но отсутствует практика)
+- MV* (есть понимание, но отсутствует практика)
 - TLD / TDD (есть понимание, но отсутствует практика)
 - ReactJS Интересен и активно изучаем в данный момент
 
@@ -35,7 +35,7 @@
 - Photoshop (базовый уровень, необходимый для верстки)
 - Gulp
 - Sass
-- PostCSS
+- BEM
 - Terminal
 - MacOS/Linux
 - Пишу чистый, понятный, структурированный код
@@ -49,10 +49,10 @@
 
 #### HTML Academy (2018)
 
-- Профессиональный HTML и CSS, уровень 1
-- Профессиональный HTML и CSS, уровень 2
-- Профессиональный JavaScript, уровень 1
-- Профессиональный JavaScript, уровень 2 
+- Профессиональный HTML и CSS, уровень 1 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/67/319049.pdf)
+- Профессиональный HTML и CSS, уровень 2 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/71/319049.pdf)
+- Профессиональный JavaScript, уровень 1 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/83/319049.pdf)
+- Профессиональный JavaScript, уровень 2 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/97/319049.pdf)
 
 
 ## Опыт
