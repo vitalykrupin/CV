@@ -52,7 +52,7 @@
 - Профессиональный HTML и CSS, уровень 1 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/67/319049.pdf)
 - Профессиональный HTML и CSS, уровень 2 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/71/319049.pdf)
 - Профессиональный JavaScript, уровень 1 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/83/319049.pdf)
-- Профессиональный JavaScript, уровень 2 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/97/319049.pdf)
+- Профессиональный JavaScript, уровень 2 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/99/319049.pdf)
 
 
 ## Опыт
