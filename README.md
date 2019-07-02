@@ -1,6 +1,6 @@
 # Виталий Крупин
 
-- 28 лет
+- 29 лет
 - г. Екатеринбург
 - telegram - @vitalykrupin
 - mail - vitalykrupin@gmail.com
@@ -16,16 +16,18 @@
 - Кроссбраузерно
 - Семантично
 - A11y
-- BEM
+- BEM 
 
 #### JavaScript
 
 - Чистый JS
-- ES6
+- ESNext
 - Модульность
-- MV* (есть понимание, но отсутствует практика)
-- TLD / TDD (есть понимание, но отсутствует практика)
-- ReactJS Интересен и активно изучаем в данный момент
+- MV*
+- TLD / TDD 
+- React.js
+- Redux
+- Tests: Unit, e2e, snapshots
 
 #### VCS
 
@@ -34,9 +36,13 @@
 #### Дополнительно
 
 - Photoshop (базовый уровень, необходимый для верстки)
+- Sketch
 - Gulp
-- Sass
-- Terminal
+- Webpack
+- Jest
+- Enzyme
+- Mocha
+- CSS препроцессоры
 - MacOS/Linux
 - Пишу чистый, понятный, структурированный код
 
@@ -49,10 +55,11 @@
 
 #### HTML Academy (2018)
 
-- Профессиональный HTML и CSS, уровень 1 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/67/319049.pdf)
-- Профессиональный HTML и CSS, уровень 2 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/71/319049.pdf)
-- Профессиональный JavaScript, уровень 1 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/83/319049.pdf)
-- Профессиональный JavaScript, уровень 2 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/99/319049.pdf)
+- HTML и CSS, уровень 1 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/67/319049.pdf)
+- HTML и CSS, уровень 2 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/71/319049.pdf)
+- JavaScript, уровень 1 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/83/319049.pdf)
+- JavaScript, уровень 2 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/99/319049.pdf)
+- JavaScript, уровень 3 - [Сертификат coming soon...]
 
 
 ## Опыт
