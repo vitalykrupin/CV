@@ -59,7 +59,7 @@
 - HTML и CSS, уровень 2 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/71/319049.pdf)
 - JavaScript, уровень 1 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/83/319049.pdf)
 - JavaScript, уровень 2 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/99/319049.pdf)
-- JavaScript, уровень 3 - [Сертификат coming soon...]
+- JavaScript, уровень 3 - [Сертификат](https://assets.htmlacademy.ru/certificates/intensive/133/319049.pdf)
 
 
 ## Опыт
